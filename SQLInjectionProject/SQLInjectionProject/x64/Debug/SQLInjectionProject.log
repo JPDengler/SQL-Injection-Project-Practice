@@ -1,0 +1,3 @@
+﻿  SQLInjection.cpp
+C:\Users\Jdeng\Downloads\CS 405 M2 SQLInjection code files\CS 405 M2 SQLInjection code files\SQLInjection.cpp(185,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SQLInjectionProject.vcxproj -> D:\CS405\SQLInjectionProject\x64\Debug\SQLInjectionProject.exe
